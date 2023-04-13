@@ -1,0 +1,14 @@
+MANIFEST.in
+README.md
+VERSION
+requirements.txt
+setup.py
+botsise/__init__.py
+botsise/__main__.py
+botsise/bot.py
+botsise.egg-info/PKG-INFO
+botsise.egg-info/SOURCES.txt
+botsise.egg-info/dependency_links.txt
+botsise.egg-info/requires.txt
+botsise.egg-info/top_level.txt
+botsise/resources/start.png
